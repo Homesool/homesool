@@ -43,12 +43,12 @@
           >
             웃으면 술이와요
           </li>
-          <li 
+          <!-- <li 
             @click="selectGameId(5)"
             :class="{ 'game-selected': (selectedGameId === 5), 'game-notselected': (selectedGameId !== 5)}"
           >
             나술안취했어
-          </li>
+          </li> -->
         </div>
       </div>
       <div class="col-8 my-1">
