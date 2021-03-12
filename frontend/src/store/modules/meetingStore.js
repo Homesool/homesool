@@ -1613,7 +1613,7 @@ const meetingStore = {
       frm.append('files', file);
 
       axios.post(
-        'https://k3a503.p.ssafy.io/emotion',
+        'https://t4coach351.p.ssafy.io/emotion',
         frm,
         {
         headers: {
